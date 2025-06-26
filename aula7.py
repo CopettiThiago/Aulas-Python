@@ -1,7 +1,7 @@
 #Variáveis são utilizadas para salvar algo na memória do computador.
 #PEP8: inicie variaveis com letras minusculas, pode usar letras, números e underline.
-#O sinal de = é o operador de atribuição, Ele é usadopara 
-# atribuir um valor a uma nome(variável).
+#O sinal de = é o operador de atribuição, Ele é usado para 
+# atribuir um valor a um nome(variável).
 # Uso : nome_variavel = expressão
 
 #nome_completo = 'Thiago Copetti'
